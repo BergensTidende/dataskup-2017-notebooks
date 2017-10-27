@@ -100,3 +100,4 @@ ENV/
 # mypy
 .mypy_cache/
 notebooks/data/~$lakselus_per_fisk.xlsx
+*.html
