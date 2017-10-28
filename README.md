@@ -1,5 +1,7 @@
 # dataskup-2017-notebooks
-Notebooks for presentation at Data Skup in Oslo oct 2017
+Notebooks for presentation at Data Skup in Oslo oct 2017 by #bord4 - the editorial development and data journalism team at Bergens Tidende ([bt.no](https://www.bt.no)), Norway
+
+**[Read our Medium-post on how to organize your data journalism workflow.](https://medium.com/bord4/keeping-track-of-your-data-journalism-378302ecbba0)**
 
 All notebooks are in Norwegian.
 
