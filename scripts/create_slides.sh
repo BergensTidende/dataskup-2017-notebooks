@@ -2,7 +2,7 @@
 
 #source activate root
 
-pkill nbconvert
+pkill -f nbconvert
 
 notebooks="$( cd ../notebooks && pwd )"
 slides="$( cd ../slides && pwd )"
