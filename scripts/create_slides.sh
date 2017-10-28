@@ -2,6 +2,8 @@
 
 #source activate root
 
+pkill nbconvert
+
 notebooks="$( cd ../notebooks && pwd )"
 slides="$( cd ../slides && pwd )"
 port=8001
